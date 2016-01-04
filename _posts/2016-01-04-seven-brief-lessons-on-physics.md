@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-04T14:24:24.905Z'
-dateModified: '2016-01-04T14:22:25.497Z'
+datePublished: '2016-01-04T14:32:03.829Z'
+dateModified: '2016-01-04T14:31:50.589Z'
 title: Seven Brief Lessons on Physics
 author: []
+sourcePath: _posts/2016-01-04-seven-brief-lessons-on-physics.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-seven-brief-lessons-on-physics.md
-published: true
 url: seven-brief-lessons-on-physics/index.html
 _type: Article
 
