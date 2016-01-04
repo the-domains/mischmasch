@@ -1,0 +1,28 @@
+name: Mischmasch
+favicon: null
+layout_spectrum: 0.6689378533046693
+typography_spectrum: 0.5134753787424415
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8879711925983429
+  lightness: 0.018439899664372206
+  saturation: 0.066803480964154
+  rhythmicContrast: 0.6959778093732893
+purpose: []
