@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mischmasch]]></title>
         <description><![CDATA[Mischmasch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mischmasch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 14:24:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 14:32:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mischmasch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Seven Brief Lessons on Physics]]></title>
             <description><![CDATA[<article><h1>Seven Brief Lessons on Physics</h1><p>Seven brief lessons on physics</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c89ce0e40708d5b84df837775c34a0e734589be.png"></article>]]></description>
-            <link>undefinedseven-brief-lessons-on-physics/index.html</link>
+            <link>https://thegrid.ai/mischmasch/seven-brief-lessons-on-physics/index.html</link>
             <guid isPermaLink="false">61cc00d9-7c14-476f-9e90-35e3dc9f9096</guid>
-            <pubDate>Mon, 04 Jan 2016 14:24:24 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 14:32:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
